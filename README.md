@@ -1,8 +1,13 @@
-# csv_plot
+# pyplot
+PyPlot: Visualize Your CSV Data with Ease
+With this application, you can seamlessly plot data from a CSV file. Follow these simple steps:
+1. Browse the CSV file.
+2. By default, the application will choose the first column for the X-axis and the second column for the Y-axis.
+3. Click the plot button to display the figure.
+4. Customize the plot by adjusting line style, thickness, symbol types, size, and colour using the respective buttons.
+5. You can save the figure using the save button.
 
-Using this Python script, you can plot a CSV file.
 
-Steps:
-1. Open the CSV file.
-2. Select the column for the X and Y axes.
-3. Click plot button to show the figure.
+
+
+
